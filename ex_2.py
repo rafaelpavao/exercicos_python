@@ -1,0 +1,5 @@
+print('Digite a sua data de nascimento: ')
+day=input('Dia: ')
+month=input('Mês: ')
+year=input('Ano: ')
+print(f'A sua data de nascimento é: dia {day} de {month} do ano de {year}')
